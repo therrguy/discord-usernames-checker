@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alimawla69/discord-usernames-checker.git"
+    "url": "git+https://github.com/therrguy/discord-usernames-checker.git"
   },
   "keywords": [
     "discord",
     "discord-usernames",
     "discord-checker"
   ],
-  "author": "Ali Mawla Know as _Luffy99 -> (https://discord.gg/HFZRWUC)",
+  "author": " _Luffy99 -> (https://discord.gg/HFZRWUC)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alimawla69/discord-usernames-checker/issues"
+    "url": "https://github.com/therrguy/discord-usernames-checker/issues"
   },
-  "homepage": "https://github.com/alimawla69/discord-usernames-checker#readme"
+  "homepage": "https://github.com/therrguy/discord-usernames-checker#readme"
 }
