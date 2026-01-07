@@ -128,7 +128,7 @@ function getInput(question) {
 (async () => {
   console.clear()
   console.log('---------------------------------------'.red)
-  console.log(`This tool has been made by Ali Mawla Know as _Luffy99 -> (https://discord.gg/HFZRWUC) - (https://github.com/alimawla69/discord-username-checker) `)
+  console.log(`This tool has been made by _Luffy99 -> (https://discord.gg/HFZRWUC) - (https://github.com/therrguy/discord-username-checker) `)
   console.log('---------------------------------------'.red)
   console.log('')
   const usernameLength = await getInput('Enter username length (2 to 20, default is 4): ');
@@ -163,4 +163,5 @@ function getInput(question) {
       await new Promise((resolve) => setTimeout(resolve, timeout));
     }
   }
+
 })();
